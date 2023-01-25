@@ -52,12 +52,5 @@
     align-items: center;
     height: 30px;
     justify-content: space-between;
-}
-
-.daily-details-grid-item:first-child {
-    color: #757575;
-}
-
-.daily-details-grid-item:last-child {
     color: #212121;
 }
